@@ -1,5 +1,7 @@
 # 🐾 Fluffy Chase
 
+[![App Store](https://img.shields.io/badge/Get%20it%20FREE-App%20Store-blue)](https://appadvice.com/app/fluffy-chase/1547186262)
+
 **Fluffy Chase** is a casual farm‑themed adventure where you play as an escaped animal (llama, cow, chicken, pig or pony) on a quest to collect carrots and coins—and avoid patrolling farmers! Hide in cornfields, unlock new levels, and buy new animals with your haul. :contentReference[oaicite:0]{index=0}
 
 ---
